@@ -1,0 +1,33 @@
+{
+  "name": "document-create-skill",
+  "version": "1.0.0",
+  "description": "Professional document generator skill for Claude Code - Creates bilingual Thai/English invoices, receipts, and quotations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "claude-code",
+    "skill",
+    "document-generation",
+    "invoice",
+    "receipt",
+    "quotation",
+    "thai",
+    "bilingual",
+    "html"
+  ],
+  "author": "Nut",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutttt-nut/document-create-skill"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
